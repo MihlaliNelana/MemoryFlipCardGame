@@ -1,0 +1,2 @@
+Some of the if else statements under the memoryFlipCard function can be simplified to ternary statements for more readability.
+Some functionality can be split into other other functions without being being nested into each other.
