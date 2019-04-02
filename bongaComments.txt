@@ -1,2 +1,3 @@
-Some of the if else statements under the memoryFlipCard function can be simplified to ternary statements for more readability.
+The code is to complicated to read and other functionality can be simplified even more.
 Some functionality can be split into other other functions without being being nested into each other.
+The game is buggy and and only ends after the first 2 boxes are matched
